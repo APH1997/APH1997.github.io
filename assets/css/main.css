@@ -2125,6 +2125,7 @@ input, select, textarea {
 
 			#top .image img {
 				border-radius: 100%;
+				object-fit: cover;
 			}
 
 		#top h1 {
@@ -2450,3 +2451,11 @@ input, select, textarea {
 					}
 
 	}
+
+.row div article{
+	height: 400px;
+}
+
+a.image.featured img{
+	object-fit: cover;
+}
