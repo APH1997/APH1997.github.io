@@ -2463,3 +2463,7 @@ a.image.featured img{
 #disabled{
 	pointer-events: none;
 }
+
+#GT-container{
+	filter: brightness(.5);
+}
