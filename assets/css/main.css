@@ -2465,5 +2465,15 @@ a.image.featured img{
 }
 
 #GT-container{
-	filter: brightness(.5);
+	filter: brightness(.9);
+}
+#GT-container article{
+	/* border: red 1px solid; */
+	position: absolute;
+}
+
+#maintenance-mask{
+	border: blue 1px solid;
+	position: absolute;
+	
 }
